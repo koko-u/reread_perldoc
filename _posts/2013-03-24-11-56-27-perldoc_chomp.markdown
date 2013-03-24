@@ -1,0 +1,6 @@
+perldoc -f chomp
+==========
+
+       chomp VARIABLE
+       chomp( LIST )
+       chomp   This safer version of "chop" (snip...)

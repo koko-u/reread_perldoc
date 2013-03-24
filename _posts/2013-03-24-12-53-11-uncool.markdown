@@ -1,0 +1,8 @@
+ダサい例
+==========
+
+<div style="font-size: 1.8em;">
+<pre class="brush: perl">
+    my @inputs = map { chomp; $_ } &lt;$fh&gt;;
+</pre>
+</div>

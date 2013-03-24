@@ -1,0 +1,11 @@
+ハマる所
+==========
+
+chomp した結果が返ってこない
+----------
+
+<div style="font-size: 1.8em;">
+<pre class="brush: perl">
+    my @inputs = map { chomp } &lt;$fh&gt;;
+</pre>
+</div>

@@ -1,0 +1,8 @@
+正しくはこう
+==========
+
+<div style="font-size: 1.8em;">
+<pre class="brush: perl">
+    chomp(my @inputs = &lt;$fh&gt;);
+</pre>
+</div>
