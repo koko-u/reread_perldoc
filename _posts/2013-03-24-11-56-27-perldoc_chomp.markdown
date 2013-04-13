@@ -1,6 +1,8 @@
 perldoc -f chomp
 ==========
 
-       chomp VARIABLE
-       chomp( LIST )
-       chomp   This safer version of "chop" (snip...)
+    chomp VARIABLE
+    chomp( LIST )
+    chomp  This safer version of "chop" (snip...)
+
+日本語もあるでよ [http://perldoc.jp/func/chomp](http://perldoc.jp/func/chomp)
